@@ -1,0 +1,15 @@
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Infrastructure\obj\Debug\net8.0\RemesaX.Infrastructure.csproj.AssemblyReference.cache
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Infrastructure\obj\Debug\net8.0\RemesaX.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Infrastructure\obj\Debug\net8.0\RemesaX.Infrastructure.AssemblyInfoInputs.cache
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Infrastructure\obj\Debug\net8.0\RemesaX.Infrastructure.AssemblyInfo.cs
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Infrastructure\obj\Debug\net8.0\RemesaX.Infrastructure.csproj.CoreCompileInputs.cache
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Infrastructure\bin\Debug\net8.0\RemesaX.Infrastructure.deps.json
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Infrastructure\bin\Debug\net8.0\RemesaX.Infrastructure.dll
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Infrastructure\bin\Debug\net8.0\RemesaX.Infrastructure.pdb
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Infrastructure\bin\Debug\net8.0\RemesaX.Core.dll
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Infrastructure\bin\Debug\net8.0\RemesaX.Core.pdb
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Infrastructure\obj\Debug\net8.0\RemesaX..B6A4D027.Up2Date
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Infrastructure\obj\Debug\net8.0\RemesaX.Infrastructure.dll
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Infrastructure\obj\Debug\net8.0\refint\RemesaX.Infrastructure.dll
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Infrastructure\obj\Debug\net8.0\RemesaX.Infrastructure.pdb
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Infrastructure\obj\Debug\net8.0\ref\RemesaX.Infrastructure.dll

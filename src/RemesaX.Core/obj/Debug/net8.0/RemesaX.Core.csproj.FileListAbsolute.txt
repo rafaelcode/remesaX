@@ -1,0 +1,11 @@
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Core\bin\Debug\net8.0\RemesaX.Core.deps.json
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Core\bin\Debug\net8.0\RemesaX.Core.dll
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Core\bin\Debug\net8.0\RemesaX.Core.pdb
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Core\obj\Debug\net8.0\RemesaX.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Core\obj\Debug\net8.0\RemesaX.Core.AssemblyInfoInputs.cache
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Core\obj\Debug\net8.0\RemesaX.Core.AssemblyInfo.cs
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Core\obj\Debug\net8.0\RemesaX.Core.csproj.CoreCompileInputs.cache
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Core\obj\Debug\net8.0\RemesaX.Core.dll
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Core\obj\Debug\net8.0\refint\RemesaX.Core.dll
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Core\obj\Debug\net8.0\RemesaX.Core.pdb
+D:\omit\RemesaX_Repo_Inicial_v14\remesax\src\RemesaX.Core\obj\Debug\net8.0\ref\RemesaX.Core.dll

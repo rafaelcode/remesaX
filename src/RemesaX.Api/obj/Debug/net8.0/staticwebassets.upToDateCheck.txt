@@ -1,0 +1,7 @@
+wwwroot\css\styles.css
+wwwroot\enviar.html
+wwwroot\historial.html
+wwwroot\index.html
+wwwroot\js\app.js
+wwwroot\js\enviar.js
+wwwroot\js\historial.js

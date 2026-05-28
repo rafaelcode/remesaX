@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000001}|src\\RemesaX.Api\\RemesaX.Api.csproj|d:\\omit\\remesax_repo_inicial_v14\\remesax\\src\\remesax.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000001}|src\\RemesaX.Api\\RemesaX.Api.csproj|solutionrelative:src\\remesax.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000001}|src\\RemesaX.Api\\RemesaX.Api.csproj|d:\\omit\\remesax_repo_inicial_v14\\remesax\\src\\remesax.api\\remesax.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000001}|src\\RemesaX.Api\\RemesaX.Api.csproj|solutionrelative:src\\remesax.api\\remesax.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000001}|src\\RemesaX.Api\\RemesaX.Api.csproj|d:\\omit\\remesax_repo_inicial_v14\\remesax\\src\\remesax.api\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000001}|src\\RemesaX.Api\\RemesaX.Api.csproj|solutionrelative:src\\remesax.api\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000002}|src\\RemesaX.Core\\RemesaX.Core.csproj|d:\\omit\\remesax_repo_inicial_v14\\remesax\\src\\remesax.core\\interfaces\\istellarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000002}|src\\RemesaX.Core\\RemesaX.Core.csproj|solutionrelative:src\\remesax.core\\interfaces\\istellarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000003}|src\\RemesaX.Infrastructure\\RemesaX.Infrastructure.csproj|d:\\omit\\remesax_repo_inicial_v14\\remesax\\src\\remesax.infrastructure\\stellar\\stellarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000003}|src\\RemesaX.Infrastructure\\RemesaX.Infrastructure.csproj|solutionrelative:src\\remesax.infrastructure\\stellar\\stellarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000001}|src\\RemesaX.Api\\RemesaX.Api.csproj|d:\\omit\\remesax_repo_inicial_v14\\remesax\\src\\remesax.api\\wwwroot\\js\\enviar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000001}|src\\RemesaX.Api\\RemesaX.Api.csproj|solutionrelative:src\\remesax.api\\wwwroot\\js\\enviar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000001}|src\\RemesaX.Api\\RemesaX.Api.csproj|d:\\omit\\remesax_repo_inicial_v14\\remesax\\src\\remesax.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000001}|src\\RemesaX.Api\\RemesaX.Api.csproj|solutionrelative:src\\remesax.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000001}|src\\RemesaX.Api\\RemesaX.Api.csproj|d:\\omit\\remesax_repo_inicial_v14\\remesax\\src\\remesax.api\\controllers\\remittancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000001}|src\\RemesaX.Api\\RemesaX.Api.csproj|solutionrelative:src\\remesax.api\\controllers\\remittancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000003}|src\\RemesaX.Infrastructure\\RemesaX.Infrastructure.csproj|d:\\omit\\remesax_repo_inicial_v14\\remesax\\src\\remesax.infrastructure\\stellar\\remittanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000003}|src\\RemesaX.Infrastructure\\RemesaX.Infrastructure.csproj|solutionrelative:src\\remesax.infrastructure\\stellar\\remittanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000003}|src\\RemesaX.Infrastructure\\RemesaX.Infrastructure.csproj|d:\\omit\\remesax_repo_inicial_v14\\remesax\\src\\remesax.infrastructure\\stellar\\stellarsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000003}|src\\RemesaX.Infrastructure\\RemesaX.Infrastructure.csproj|solutionrelative:src\\remesax.infrastructure\\stellar\\stellarsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000001}|src\\RemesaX.Api\\RemesaX.Api.csproj|d:\\omit\\remesax_repo_inicial_v14\\remesax\\src\\remesax.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000001}|src\\RemesaX.Api\\RemesaX.Api.csproj|solutionrelative:src\\remesax.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000001}|src\\RemesaX.Api\\RemesaX.Api.csproj|d:\\omit\\remesax_repo_inicial_v14\\remesax\\src\\remesax.api\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000001}|src\\RemesaX.Api\\RemesaX.Api.csproj|solutionrelative:src\\remesax.api\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988E520B-D87E-DACE-665E-11BDEEE57632}|src\\RemesaX.Tests\\RemesaX.Tests.csproj|d:\\omit\\remesax_repo_inicial_v14\\remesax\\src\\remesax.tests\\remittancescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988E520B-D87E-DACE-665E-11BDEEE57632}|src\\RemesaX.Tests\\RemesaX.Tests.csproj|solutionrelative:src\\remesax.tests\\remittancescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988E520B-D87E-DACE-665E-11BDEEE57632}|src\\RemesaX.Tests\\RemesaX.Tests.csproj|d:\\omit\\remesax_repo_inicial_v14\\remesax\\src\\remesax.tests\\remittanceservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988E520B-D87E-DACE-665E-11BDEEE57632}|src\\RemesaX.Tests\\RemesaX.Tests.csproj|solutionrelative:src\\remesax.tests\\remittanceservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "enviar.js",
+              "DocumentMoniker": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Api\\wwwroot\\js\\enviar.js",
+              "RelativeDocumentMoniker": "src\\RemesaX.Api\\wwwroot\\js\\enviar.js",
+              "ToolTip": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Api\\wwwroot\\js\\enviar.js",
+              "RelativeToolTip": "src\\RemesaX.Api\\wwwroot\\js\\enviar.js",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-21T02:18:58.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\RemesaX.Api\\Program.cs",
+              "ToolTip": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Api\\Program.cs",
+              "RelativeToolTip": "src\\RemesaX.Api\\Program.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAYwF8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T07:16:49.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemesaX.Api.csproj",
+              "DocumentMoniker": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Api\\RemesaX.Api.csproj",
+              "RelativeDocumentMoniker": "src\\RemesaX.Api\\RemesaX.Api.csproj",
+              "ToolTip": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Api\\RemesaX.Api.csproj",
+              "RelativeToolTip": "src\\RemesaX.Api\\RemesaX.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-20T07:16:53.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WalletController.cs",
+              "DocumentMoniker": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Api\\Controllers\\WalletController.cs",
+              "RelativeDocumentMoniker": "src\\RemesaX.Api\\Controllers\\WalletController.cs",
+              "ToolTip": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Api\\Controllers\\WalletController.cs",
+              "RelativeToolTip": "src\\RemesaX.Api\\Controllers\\WalletController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAYwHMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T07:44:14.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStellarService.cs",
+              "DocumentMoniker": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Core\\Interfaces\\IStellarService.cs",
+              "RelativeDocumentMoniker": "src\\RemesaX.Core\\Interfaces\\IStellarService.cs",
+              "ToolTip": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Core\\Interfaces\\IStellarService.cs",
+              "RelativeToolTip": "src\\RemesaX.Core\\Interfaces\\IStellarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T02:22:17.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StellarService.cs",
+              "DocumentMoniker": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Infrastructure\\Stellar\\StellarService.cs",
+              "RelativeDocumentMoniker": "src\\RemesaX.Infrastructure\\Stellar\\StellarService.cs",
+              "ToolTip": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Infrastructure\\Stellar\\StellarService.cs",
+              "RelativeToolTip": "src\\RemesaX.Infrastructure\\Stellar\\StellarService.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAYwLoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T07:17:00.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StellarSettings.cs",
+              "DocumentMoniker": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Infrastructure\\Stellar\\StellarSettings.cs",
+              "RelativeDocumentMoniker": "src\\RemesaX.Infrastructure\\Stellar\\StellarSettings.cs",
+              "ToolTip": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Infrastructure\\Stellar\\StellarSettings.cs",
+              "RelativeToolTip": "src\\RemesaX.Infrastructure\\Stellar\\StellarSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T07:43:04.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RemittanceService.cs",
+              "DocumentMoniker": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Infrastructure\\Stellar\\RemittanceService.cs",
+              "RelativeDocumentMoniker": "src\\RemesaX.Infrastructure\\Stellar\\RemittanceService.cs",
+              "ToolTip": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Infrastructure\\Stellar\\RemittanceService.cs",
+              "RelativeToolTip": "src\\RemesaX.Infrastructure\\Stellar\\RemittanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T07:43:12.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.development.json",
+              "DocumentMoniker": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Api\\appsettings.development.json",
+              "RelativeDocumentMoniker": "src\\RemesaX.Api\\appsettings.development.json",
+              "ToolTip": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Api\\appsettings.development.json",
+              "RelativeToolTip": "src\\RemesaX.Api\\appsettings.development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-20T07:39:55.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RemittancesController.cs",
+              "DocumentMoniker": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Api\\Controllers\\RemittancesController.cs",
+              "RelativeDocumentMoniker": "src\\RemesaX.Api\\Controllers\\RemittancesController.cs",
+              "ToolTip": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Api\\Controllers\\RemittancesController.cs",
+              "RelativeToolTip": "src\\RemesaX.Api\\Controllers\\RemittancesController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T07:44:16.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\RemesaX.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\RemesaX.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-20T07:47:08.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RemittancesControllerTests.cs",
+              "DocumentMoniker": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Tests\\RemittancesControllerTests.cs",
+              "RelativeDocumentMoniker": "src\\RemesaX.Tests\\RemittancesControllerTests.cs",
+              "ToolTip": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Tests\\RemittancesControllerTests.cs",
+              "RelativeToolTip": "src\\RemesaX.Tests\\RemittancesControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T07:33:55.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RemittanceServiceTests.cs",
+              "DocumentMoniker": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Tests\\RemittanceServiceTests.cs",
+              "RelativeDocumentMoniker": "src\\RemesaX.Tests\\RemittanceServiceTests.cs",
+              "ToolTip": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Tests\\RemittanceServiceTests.cs",
+              "RelativeToolTip": "src\\RemesaX.Tests\\RemittanceServiceTests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T07:33:58.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Api\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "src\\RemesaX.Api\\wwwroot\\index.html",
+              "ToolTip": "D:\\omit\\RemesaX_Repo_Inicial_v14\\remesax\\src\\RemesaX.Api\\wwwroot\\index.html",
+              "RelativeToolTip": "src\\RemesaX.Api\\wwwroot\\index.html",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T07:20:36.176Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
