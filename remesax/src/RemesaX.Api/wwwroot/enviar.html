@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Enviar remesa — RemesaX</title>
+  <link rel="stylesheet" href="/css/styles.css" />
+</head>
+<body>
+  <nav class="nav">
+    <div class="nav-brand">
+      <span class="logo">💸</span>
+      <span class="brand-name">RemesaX</span>
+    </div>
+    <div class="nav-links">
+      <a href="/index.html">Inicio</a>
+      <a href="/enviar.html" class="active">Enviar</a>
+      <a href="/historial.html">Historial</a>
+      <a href="/swagger" target="_blank">API Docs</a>
+    </div>
+  </nav>
+
+  <main class="form-page">
+    <div class="form-container">
+      <header class="form-header">
+        <h1>Enviar remesa</h1>
+        <p>Llena los datos y procesaremos tu remesa on-chain.</p>
+      </header>
+
+      <!-- Caja de ayuda para casos de prueba -->
+      <div class="help-box">
+        <details>
+          <summary>🧪 ¿No tienes un wallet de prueba? Crea uno en 1 click</summary>
+          <p>Generamos una cuenta Stellar de testnet y le aplicamos trustline a USDX automáticamente. Solo para demo.</p>
+          <button type="button" id="btn-create-wallet" class="btn btn-secondary">
+            Crear wallet de prueba
+          </button>
+          <div id="created-wallet" class="created-wallet hidden">
+            <p><strong>✅ Wallet creada:</strong></p>
+            <p>Public key: <code id="created-public-key"></code></p>
+            <p><small>Esta wallet ya tiene trustline a USDX. Úsala como destino.</small></p>
+          </div>
+        </details>
+      </div>
+
+      <form id="remittance-form" class="form">
+        <div class="form-group">
+          <label for="senderName">Tu nombre (remitente)</label>
+          <input type="text" id="senderName" required placeholder="Ej: Juan Pérez" />
+        </div>
+
+        <div class="form-group">
+          <label for="destinationAddress">Wallet destino (public key Stellar)</label>
+          <input type="text" id="destinationAddress" required
+                 minlength="56" maxlength="56"
+                 placeholder="G... (56 caracteres)" />
+          <small class="form-help">Debe empezar con G y tener exactamente 56 caracteres.</small>
+        </div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label for="amount">Monto en USD</label>
+            <input type="number" id="amount" required min="0.01" max="10000" step="0.01" value="50" />
+          </div>
+          <div class="form-group">
+            <label for="targetCurrency">Moneda destino</label>
+            <select id="targetCurrency">
+              <option value="MXN">🇲🇽 Peso Mexicano (MXN)</option>
+              <option value="ARS">🇦🇷 Peso Argentino (ARS)</option>
+              <option value="COP">🇨🇴 Peso Colombiano (COP)</option>
+              <option value="PEN" selected>🇵🇪 Sol Peruano (PEN)</option>
+              <option value="BRL">🇧🇷 Real Brasileño (BRL)</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- Preview en tiempo real -->
+        <div class="preview-box" id="preview-box">
+          <div class="preview-row">
+            <span>Envías:</span>
+            <strong id="preview-send">$50.00 USD</strong>
+          </div>
+          <div class="preview-row">
+            <span>Comisión RemesaX:</span>
+            <strong class="preview-fee">~$0.00001 (testnet)</strong>
+          </div>
+          <div class="preview-row preview-receive">
+            <span>El beneficiario recibe:</span>
+            <strong id="preview-receive">— PEN</strong>
+          </div>
+          <div class="preview-row preview-time">
+            <span>Tiempo estimado:</span>
+            <strong>~3-5 segundos</strong>
+          </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary btn-full" id="btn-submit">
+          Enviar remesa
+        </button>
+      </form>
+
+      <!-- Resultado -->
+      <div id="result" class="result hidden"></div>
+    </div>
+  </main>
+
+  <script src="/js/app.js"></script>
+  <script src="/js/enviar.js"></script>
+</body>
+</html>

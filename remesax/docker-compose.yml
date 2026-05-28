@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: remesax-api
+    ports:
+      - "5000:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - Stellar__Network=Testnet
+      - Stellar__HorizonUrl=https://horizon-testnet.stellar.org
+      # Estos secrets debes pasarlos via .env o configurar en tu shell
+      - Stellar__IssuerSecretKey=${STELLAR_ISSUER_SECRET}
+      - Stellar__IssuerPublicKey=${STELLAR_ISSUER_PUBLIC}
+    volumes:
+      - remesax-data:/app/data
+
+volumes:
+  remesax-data:

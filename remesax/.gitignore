@@ -1,0 +1,24 @@
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+*.db
+*.db-shm
+*.db-wal
+appsettings.Development.json
+appsettings.Local.json
+.env
+.env.local
+*.log
+
+# Rider
+.idea/
+
+# macOS
+.DS_Store
+
+# Publish output
+publish/
+out/
